@@ -1,0 +1,105 @@
+id,passengers,luggage,location
+1,1,Heavy,East
+2,1,Medium,East
+3,1,Light,East
+4,1,Medium,North 
+5,1,Light,North 
+6,1,Heavy,North 
+7,1,Light,South 
+8,1,Heavy,South 
+9,1,Medium,South 
+10,1,Light,West
+11,1,Heavy,West
+12,1,Medium,West
+13,2,Medium,East
+14,2,Light,East
+15,2,Heavy,East
+16,2,Light,North 
+17,2,Heavy,North 
+18,2,Medium,North 
+19,2,Light,South 
+20,2,Heavy,South 
+21,2,Medium,South 
+22,2,Heavy,West
+23,2,Medium,West
+24,2,Light,West
+25,3,Light,East
+26,3,Heavy,East
+27,3,Medium,East
+28,3,Heavy,North 
+29,3,Medium,North 
+30,3,Light,North 
+31,3,Heavy,South 
+32,3,Medium,South 
+33,3,Light,South 
+34,3,Medium,West
+35,3,Light,West
+36,3,Heavy,West
+37,4,Heavy,East
+38,4,Medium,East
+39,4,Light,East
+40,4,Heavy,West
+41,4,Medium,North 
+42,4,Light,North 
+43,4,Heavy,North
+44,4,Medium,South 
+45,4,Light,South 
+46,4,Heavy,South 
+47,4,Light,West
+48,4,Medium,West
+49,5,Medium,East
+50,5,Light,East
+51,5,Heavy,East
+52,5,Medium,North 
+53,5,Light,North 
+54,5,Heavy,North 
+55,5,Light,South 
+56,5,Heavy,South 
+57,5,Medium,South 
+58,5,Heavy,West
+59,5,Medium,West
+60,5,Light,West
+61,6,Light,East
+62,6,Heavy,East
+63,6,Medium,East
+64,6,Light,North 
+65,6,Heavy,North 
+66,6,Medium,North 
+67,6,Heavy,South 
+68,6,Medium,South 
+69,6,Light,South 
+70,6,Heavy,West
+71,6,Medium,West
+72,6,Light,West
+73,7,Heavy,East
+74,7,Medium,East
+75,7,Light,East
+76,7,Heavy,North 
+77,7,Medium,North 
+78,7,Light,North 
+79,7,Medium,South 
+80,7,Light,South 
+81,7,Heavy,South 
+82,7,Medium,West
+83,7,Light,West
+84,7,Heavy,West
+85,1,Very Heavy,North 
+86,2,Very Heavy,South 
+87,3,Very Heavy,West
+88,4,Very Heavy,East
+89,5,Very Heavy,North 
+90,6,Very Heavy,South 
+91,7,Very Heavy,West
+92,1,Very Heavy,East
+93,2,Very Heavy,East
+94,3,Very Heavy,North 
+95,4,Very Heavy,South 
+96,5,Very Heavy,West
+97,6,Very Heavy,East
+98,1,Very Heavy,West
+99,2,Very Heavy,West
+100,7,Very Heavy,North 
+101,3,Very Heavy,South 
+102,4,Very Heavy,West
+103,5,Very Heavy,East
+104,1,Very Heavy,South 

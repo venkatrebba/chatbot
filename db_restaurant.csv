@@ -1,0 +1,101 @@
+id,restname,cuisine,location,costrange
+1,Seasonal Taste ,Chineese,West,Cheap
+2,Syn,Chineese,West,Expensive
+3,Orchid,Chineese,West,Medium
+4,The Dining Room,Chineese,West,Cheap
+5,Utupura Kerala,Chineese,West,Expensive
+6,Seasonal Taste ,Chineese,West,Medium
+7,Syn,Chineese,West,Cheap
+8,Orchid,Chineese,West,Expensive
+9,The Dining Room,Chineese,West,Medium
+10,Utupura Kerala,Chineese,West,Cheap
+11,Seasonal Taste ,Chineese,West,Expensive
+12,Syn,Chineese,West,Medium
+13,Prego,Continental,East,Expensive
+14,Hyderabad Hosts,Continental,East,Medium
+15,Cafe Coffee Day,Continental,East,Cheap
+16,Kholani's,Continental,East,Expensive
+17,Kuchipudi,Continental,East,Medium
+18,Prego,Continental,East,Cheap
+19,Hyderabad Hosts,Continental,East,Expensive
+20,Cafe Coffee Day,Continental,East,Medium
+21,Kholani's,Continental,East,Cheap
+22,Kuchipudi,Continental,East,Expensive
+23,Prego,Continental,East,Medium
+24,Hyderabad Hosts,Continental,East,Cheap
+25,Cafe Coffee Day,Continental,East,Expensive
+26,Paradise,Japaneese,North ,Medium
+27,Kfc,Japaneese,North ,Cheap
+28,4 Seasons,Japaneese,North ,Expensive
+29,Flavours,Japaneese,North ,Medium
+30,Zaika,Japaneese,North ,Cheap
+31,Paradise,Japaneese,North ,Expensive
+32,Kfc,Japaneese,North ,Medium
+33,4 Seasons,Japaneese,North ,Cheap
+34,Flavours,Japaneese,North ,Expensive
+35,Zaika,Japaneese,North ,Medium
+36,Paradise,Japaneese,North ,Cheap
+37,Kfc,Japaneese,North ,Expensive
+38,Pista house,Mexican,South ,Expensive
+39,Malgudi,Mexican,South ,Medium
+40,Kamat Hotel,Mexican,South ,Cheap
+41,Noodle Bar,Mexican,South ,Expensive
+42,Amore,Mexican,South ,Medium
+43,Pista house,Mexican,South ,Cheap
+44,Malgudi,Mexican,South ,Expensive
+45,Kamat Hotel,Mexican,South ,Medium
+46,Noodle Bar,Mexican,South ,Cheap
+47,Amore,Mexican,South ,Expensive
+48,Pista house,Mexican,South ,Medium
+49,Malgudi,Mexican,South ,Cheap
+50,Absolute Barbecue,North Indian,North ,Cheap
+51,Bawarchi,North Indian,North ,Expensive
+52,Southern Spice,North Indian,North ,Medium
+53,Mainland China,North Indian,North ,Cheap
+54,The Hub,North Indian,North ,Expensive
+55,Absolute Barbecue,North Indian,North ,Medium
+56,Bawarchi,North Indian,North ,Cheap
+57,Southern Spice,North Indian,North ,Expensive
+58,Mainland China,North Indian,North ,Medium
+59,The Hub,North Indian,North ,Cheap
+60,Absolute Barbecue,North Indian,North ,Expensive
+61,Bawarchi,North Indian,North ,Medium
+62,Southern Spice,North Indian,North ,Cheap
+63,Jonathan's kitchen,South Indian,South ,Medium
+64,Guffa,South Indian,South ,Cheap
+65,Minerva Coffee Shop,South Indian,South ,Expensive
+66,Calcutta Cabiin,South Indian,South ,Medium
+67,Blue Diamond,South Indian,South ,Cheap
+68,Jonathan's kitchen,South Indian,South ,Expensive
+69,Guffa,South Indian,South ,Medium
+70,Minerva Coffee Shop,South Indian,South ,Cheap
+71,Calcutta Cabiin,South Indian,South ,Expensive
+72,Blue Diamond,South Indian,South ,Medium
+73,Jonathan's kitchen,South Indian,South ,Cheap
+74,Guffa,South Indian,South ,Expensive
+75,Minerva Coffee Shop,South Indian,South ,Medium
+76,Dialogue in the dark,Taiwanese,East,Cheap
+77,Little Italy,Taiwanese,East,Expensive
+78,Mocha,Taiwanese,East,Medium
+79,Tansen,Taiwanese,East,Cheap
+80,Mamu,Taiwanese,East,Expensive
+81,Dialogue in the dark,Taiwanese,East,Medium
+82,Little Italy,Taiwanese,East,Cheap
+83,Mocha,Taiwanese,East,Expensive
+84,Tansen,Taiwanese,East,Medium
+85,Mamu,Taiwanese,East,Cheap
+86,Dialogue in the dark,Taiwanese,East,Expensive
+87,Little Italy,Taiwanese,East,Medium
+88,The Square,Vegetarian,West,Medium
+89,Subway,Vegetarian,West,Cheap
+90,Pizza Corner,Vegetarian,West,Expensive
+91,100 Degrees,Vegetarian,West,Medium
+92,Oriental Blossom,Vegetarian,West,Cheap
+93,The Square,Vegetarian,West,Expensive
+94,Subway,Vegetarian,West,Medium
+95,Pizza Corner,Vegetarian,West,Cheap
+96,100 Degrees,Vegetarian,West,Expensive
+97,Oriental Blossom,Vegetarian,West,Medium
+98,The Square,Vegetarian,West,Cheap
+99,Subway,Vegetarian,West,Expensive
+100,Kamath,Vegetarian,West,Expensive
